@@ -5,8 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MatlabWrangler"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
+        Title="Matlab Wrangler" Height="350" Width="525">
     <Grid>
-        
+        <Label x:Name="label" Content="Drag a .STL file into this box" HorizontalAlignment="Left" Margin="215,10,0,0" VerticalAlignment="Top"/>
+        <StackPanel HorizontalAlignment="Left" Height="32" Margin="10,46,0,0" VerticalAlignment="Top" Width="60">
+            <RadioButton GroupName="STLType" Content="Binary" IsChecked="True"/>
+            <RadioButton GroupName="STLType" Content="ASCII"/>
+        </StackPanel>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="45" Margin="70,41,0,0" VerticalAlignment="Top" Width="419"/>
     </Grid>
 </Window>

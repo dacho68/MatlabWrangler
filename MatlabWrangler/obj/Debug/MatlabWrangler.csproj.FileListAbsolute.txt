@@ -1,1 +1,14 @@
 C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\MatlabWrangler.exe.config
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\MatlabWrangler.exe
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\MatlabWrangler.pdb
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.csprojResolveAssemblyReference.cache
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MainWindow.g.cs
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\App.g.cs
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler_MarkupCompile.cache
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler_MarkupCompile.lref
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MainWindow.baml
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.g.resources
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.Properties.Resources.resources
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.csproj.GenerateResource.Cache
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.exe
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.pdb
