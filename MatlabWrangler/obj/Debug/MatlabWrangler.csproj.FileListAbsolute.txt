@@ -12,3 +12,13 @@ C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.
 C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.csproj.GenerateResource.Cache
 C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.exe
 C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\obj\Debug\MatlabWrangler.pdb
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.dll
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.dll
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.ExtendedLinguisticServices.xml
+C:\Users\Scott\Documents\MatlabWrangler\MatlabWrangler\bin\Debug\Microsoft.WindowsAPICodePack.Sensors.xml

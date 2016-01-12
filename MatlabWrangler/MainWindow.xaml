@@ -5,13 +5,18 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MatlabWrangler"
         mc:Ignorable="d"
-        Title="Matlab Wrangler" Height="350" Width="525">
+        Title="Matlab Wrangler" Height="275.022" Width="525" ResizeMode="NoResize">
     <Grid>
         <Label x:Name="label" Content="Drag a .STL file into this box" HorizontalAlignment="Left" Margin="215,10,0,0" VerticalAlignment="Top"/>
         <StackPanel HorizontalAlignment="Left" Height="32" Margin="10,46,0,0" VerticalAlignment="Top" Width="60">
-            <RadioButton GroupName="STLType" Content="Binary" IsChecked="True"/>
-            <RadioButton GroupName="STLType" Content="ASCII"/>
+            <RadioButton x:Name="Binary" GroupName="STLType" Content="Binary"/>
+            <RadioButton x:Name="ASCII" GroupName="STLType" Content="ASCII" IsChecked="True"/>
         </StackPanel>
-        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="45" Margin="70,41,0,0" VerticalAlignment="Top" Width="419"/>
+        <ListBox x:Name="modelBox" HorizontalAlignment="Left" Height="45" Margin="75,41,0,0" VerticalAlignment="Top" Width="414" AllowDrop="True" DragEnter="modelBox_DragEnter" Drop="modelBox_Drop"/>
+        <Button x:Name="generate_button" Content="Generate" HorizontalAlignment="Left" Margin="414,200,0,0" VerticalAlignment="Top" Width="75" Click="generate_button_Click"/>
+        <ListBox x:Name="outputBox" Height="43" Margin="21,120,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="468"/>
+        <Label x:Name="label1" Content="Output Path" HorizontalAlignment="Left" Margin="224,91,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="choose_folder_button" Content="Choose Folder..." HorizontalAlignment="Left" Margin="303,200,0,0" VerticalAlignment="Top" Width="106" Click="choose_folder_click"/>
+        <Label x:Name="statusLabel" Content="" HorizontalAlignment="Left" Margin="21,168,0,0" VerticalAlignment="Top" Width="468" Height="27"/>
     </Grid>
 </Window>
