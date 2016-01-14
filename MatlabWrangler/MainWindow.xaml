@@ -13,10 +13,11 @@
             <RadioButton x:Name="ASCII" GroupName="STLType" Content="ASCII" IsChecked="True"/>
         </StackPanel>
         <ListBox x:Name="modelBox" HorizontalAlignment="Left" Height="45" Margin="75,41,0,0" VerticalAlignment="Top" Width="414" AllowDrop="True" DragEnter="modelBox_DragEnter" Drop="modelBox_Drop"/>
-        <Button x:Name="generate_button" Content="Generate" HorizontalAlignment="Left" Margin="414,200,0,0" VerticalAlignment="Top" Width="75" Click="generate_button_Click"/>
+        <Button x:Name="generate_button" Content="Generate" HorizontalAlignment="Left" Margin="414,205,0,0" VerticalAlignment="Top" Width="75" Click="generate_button_Click"/>
         <ListBox x:Name="outputBox" Height="43" Margin="21,120,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="468"/>
         <Label x:Name="label1" Content="Output Path" HorizontalAlignment="Left" Margin="224,91,0,0" VerticalAlignment="Top"/>
-        <Button x:Name="choose_folder_button" Content="Choose Folder..." HorizontalAlignment="Left" Margin="303,200,0,0" VerticalAlignment="Top" Width="106" Click="choose_folder_click"/>
-        <Label x:Name="statusLabel" Content="" HorizontalAlignment="Left" Margin="21,168,0,0" VerticalAlignment="Top" Width="468" Height="27"/>
+        <Button x:Name="choose_folder_button" Content="Choose Folder..." HorizontalAlignment="Left" Margin="303,205,0,0" VerticalAlignment="Top" Width="106" Click="choose_folder_click"/>
+        <TextBlock x:Name="myTextBox" HorizontalAlignment="Left" Height="18" Margin="21,182,0,0" TextWrapping="Wrap" Text="Use the ''Choose Folder...'' button to select your matlab directory" VerticalAlignment="Top" Width="468"/>
+        <ProgressBar x:Name="myProgressBar" HorizontalAlignment="Left" Height="20" Margin="21,205,0,0" VerticalAlignment="Top" Width="277"/>
     </Grid>
 </Window>
